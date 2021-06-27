@@ -34,6 +34,7 @@ A = T3
 6.
 a. Write a LEX program to eliminate comment lines in a C program and copy the resulting
 program into a separate file.
+
 b. Write YACC program to recognize valid identifier, operators and keywords in the given text
 (C program) file.
 
